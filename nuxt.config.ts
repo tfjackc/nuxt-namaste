@@ -13,7 +13,7 @@ export default defineNuxtConfig({
     'nuxt3-leaflet'
   ],
   css: [
-    '~/assets/scss/main.scss'
+    '~/assets/css/main.css'
   ],
   vuetify: {
     vuetifyOptions: {
