@@ -10,7 +10,7 @@ export default defineNuxtConfig({
   modules: [
     '@pinia/nuxt',
     'vuetify-nuxt-module',
-    'nuxt3-leaflet'
+    'nuxt3-leaflet',
   ],
   css: [
     '~/assets/css/main.css'

@@ -1,3 +1,32 @@
 .v-toolbar-title__placeholder {
-    font-size: 1.6rem;
+    font-size: 1.5rem;
+}
+
+.top-div {
+    background:linear-gradient(to top, #9BA5AE, #020B1A);
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.welcome {
+    margin: 20px;
+    padding: 100px;
+    background-color: black !important;
+    opacity: 0.65;
+}
+
+.bottom-div {
+    height: 100%;
+    width: 100%;
+}
+
+.bottom-card {
+    height: 60vh;
+    width: 100%;
+}
+
+.v-container{
+    margin: 0;
+    padding: 0;
 }
